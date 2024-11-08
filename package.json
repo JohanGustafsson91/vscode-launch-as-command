@@ -1,0 +1,11 @@
+{
+  "name": "vscode-launch-as-command",
+  "version": "1.0.0",
+  "description": "run vscode launch configuration from command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johan.gustafsson91@gmail.com",
+  "license": "ISC"
+}
